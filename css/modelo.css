@@ -1,0 +1,264 @@
+
+       nav {
+        margin: auto 20px;
+        padding: 5px;
+        border-radius: 5px;
+        background-color: #c4c4c4;
+    }
+
+    nav > a {
+        text-decoration: none;
+        text-transform: uppercase;
+        color: #000000;
+        font-weight: bold;
+        font-size: 10pt;
+        margin-right: 20px;
+        font-family: Arial, Helvetica, sans-serif;     
+    }
+
+    h4.saudacao {
+       display: inline-block;
+        margin-right: 5px;
+    }
+    
+    body {
+        background-color: white;
+        font-family: font-family: 'Dosis', sans-serif;
+        font-size: 14pt;
+    
+    }
+
+  
+    .promo {
+        background-color: #c4c4c4;
+        height: 800px;
+        padding: 30px ;
+        border-radius: 5px;
+        margin:50px 35px 50px 35px;
+        font-weight: normal;
+        text-align: center;  
+    }
+    .promo1 {
+        background-color: #c4c4c4;
+        height: 600px;
+        padding: 30px ;
+        border-radius: 5px;
+        margin:50px 35px 50px 35px;
+        font-weight: normal;
+        text-align: center;  
+    }  
+  
+        
+    div {
+        background-color: #c4c4c4;
+        height: 400px;
+        padding: 30px ;
+        border-radius: 5px;
+        margin:50px 35px 50px 35px;
+        font-weight: normal;
+        text-align: center;
+    }
+     #logo {
+        display: inline-block;
+         font-family: 'Montserrat Subrayada', sans-serif;
+         font-size: 25pt;
+         padding: 2px;
+         margin: 0px 10px;
+
+     }
+     div.console1 {
+         height: 450px;
+         width: 800px;
+         padding: 30px;
+         margin: 50px auto 50px;
+         font-family: Arial, Helvetica, sans-serif; 
+         font-size: 14pt;   
+     }
+
+     div.console2 {
+        height: 410px;
+        width: 800px;
+        padding: 30px;
+        margin: 50px auto;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14pt;
+     }
+
+     div.console3 {
+        height: 500px;
+        width: 800px;
+        padding: 30px;
+        margin: 50px auto;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14pt;
+     }
+
+     div.console4 {
+        height: 500px;
+        width: 800px;
+        padding: 30px;
+        margin: 50px auto;;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14pt;
+     }
+
+     div.console5 {
+        height: 500px;
+        width: 800px;
+        padding: 30px;
+        margin: 50px auto;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14pt;
+     }
+
+     div.console6 {
+        height: 580px;
+        width: 800px;
+        padding: 30px;
+        margin: 50px auto;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14pt;
+     }
+
+     div.console7 {
+        height: 500px;
+        width: 800px;
+        padding: 30px;
+        margin: 50px auto;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 14pt;
+     }
+     
+    
+
+     div.jogo1 {
+         display: inline-block;
+         padding: 10px;
+         margin: 50px 25px 35px 50px;
+        
+     }
+
+     div.jogo2 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+
+    div.jogo3 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+    div.jogo4 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+
+    div.jogo5 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+
+    div.jogo6 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px 50px;
+       
+    }
+
+    div.jogo7 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+
+    div.jogo8 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+
+    div.jogo9 {
+         display: inline-block;
+         padding: 10px 10px;
+         margin: 50px 25px 35px;
+        
+     }
+
+     div.jogo10 {
+        display: inline-block;
+        padding: 10px 10px;
+        margin: 50px 25px 35px;
+       
+    }
+
+    section {
+        background-color:#c4c4c4;
+        padding: 20px 20px;
+        margin: 50px 35px 35px 35px;
+        border-radius: 5px;
+        
+    }
+
+    article {
+        background-color: #c4c4c4;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 12pt;
+        text-align: center;
+        margin: 10px 35px 50px 35px;
+        border-radius: 5px;
+        padding: 20px;
+    
+    
+    }
+
+    .aces {
+    
+    
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 12pt;
+        text-align: justify;
+
+    }
+
+    aside {
+        
+        width: 600px;
+        background-color: white;
+        text-align: center;
+        margin: 35px auto 10px;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 12pt;
+        border-width: 5px;
+        border-style: solid;
+        border-color:brown;
+        border-radius: 5px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    div.contatos {
+     
+        padding: 30px;
+        margin: 50px 35px 35px;
+        font-family: Arial, Helvetica, sans-serif; 
+        font-size: 11spt;
+
+    }
+
+
+    footer {
+        text-align: center;
+        font-family: sans-serif;
+        background-color: #bababa;
+        width: 100%;
+        height: 70px;
+        font-size: 9pt;
+        }
